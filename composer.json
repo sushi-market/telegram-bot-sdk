@@ -25,7 +25,7 @@
     "ext-json": "*",
     "guzzlehttp/guzzle": "^7.5.1",
     "guzzlehttp/psr7": "^2.5",
-    "illuminate/support": "9 - 10",
+    "laravel/framework": "9 - 10",
     "league/event": "^2.2 || ^3.0",
     "psr/container": "^2.0",
     "psr/event-dispatcher": "^1.0"
